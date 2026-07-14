@@ -17,7 +17,7 @@ Unindo mais de 15 anos de experiência em **Gestão Administrativo-Financeira e 
 Atuar como **Analytics Engineer** ou **Data Analyst Specialist**, servindo como ponte de alta confiança entre as necessidades de C-Level e a infraestrutura técnica de dados.
 
 ---
-**Contato:** jorgnetoabs@gmail.com | linkedin.com/in/jorgejneto)
+**Contato:** jorgnetoabs@gmail.com | linkedin.com/in/jorgejneto
 
 
 <!---
