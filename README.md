@@ -11,7 +11,7 @@ Unindo mais de 15 anos de experiência em **Gestão Administrativo-Financeira e 
 *   **Desenvolvimento Contínuo:** Python (manipulação de dados e automação) e IA Generativa aplicada à produtividade técnica (Prompt Engineering).
 
 ### Projetos em Destaque
-*   *Em breve: Link para o seu repositório da CONAB ou do projeto de Power BI do trabalho*
+*   *Em breve: Link para o seu repositório da CONAB ou do projeto de análise de campanhas de marketing usando o Power BI*
 
 ### Objetivo
 Atuar como **Analytics Engineer** ou **Data Analyst Specialist**, servindo como ponte de alta confiança entre as necessidades de C-Level e a infraestrutura técnica de dados.
